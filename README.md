@@ -1,4 +1,4 @@
-# Data-Analysis-with-Python-Part-2-Regression
+# Data-Analysis-with-Python-Linear-Regression
 This workshop focuses on using python for regression analysis to predict, forecast, and understand the relationships between variables. Learn how to establish a correlation using regression models in Python with Numpy, scikit-learn and statsmodels. This workshop will cover arrays, simple linear regression, multiple linear regression, and polynomial regression.
 
 * Introduction to Regression
