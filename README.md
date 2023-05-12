@@ -13,6 +13,6 @@ This workshop focuses on using python for regression analysis to predict, foreca
 Please click **'Open in Colab'** button below to launch the notebook in Google Colab for an interactive environment in the web browser.
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/The-CEAS-Library/Data-Analysis-with-Python-Part-2-Regression.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/The-CEAS-Library/Data-Analysis-with-Python-Linear-Regression.git/master)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/The-CEAS-Library/Data-Analysis-with-Python-Part-2-Regression)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/The-CEAS-Library/Data-Analysis-with-Python-Linear-Regression)
